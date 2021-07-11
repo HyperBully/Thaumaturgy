@@ -1,0 +1,13 @@
+# Ignore everything:
+
+
+!README.md
+
+/Astar
+/BehaviorTree
+/Logistics
+/Randomizer
+/Threading
+Math.cs
+
+*.meta
