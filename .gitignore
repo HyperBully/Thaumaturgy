@@ -1,10 +1,1 @@
 
-/Astar
-/BehaviorTree
-/Logistics
-/Randomizer
-/Threading
-Math.cs
-.gitignore
-.gitattributes
-*.meta
