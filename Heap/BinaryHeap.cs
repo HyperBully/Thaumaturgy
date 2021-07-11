@@ -16,7 +16,7 @@ namespace Thaumaturgy.Heap
         protected int _tempInt;
         public virtual T Peek()
         {
-            return _heap.First();
+            return !HasItems ? _heap[0] : default(T);
         }
 
         public virtual T Poll()
